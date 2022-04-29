@@ -1,3 +1,5 @@
+Begin your learning journey with Marus. Earn credits for a degree, pick up a monetizable skill, or simply understand the world around you a little better.
+
 
 ## Table of contents
 
