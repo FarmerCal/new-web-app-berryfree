@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 4320 792" style="enable-background:new 0 0 4320 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#21409A;}
+	.st1{fill:#F26522;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{font-family:'FenwickLt-Regular';}
+	.st4{font-size:640px;}
+	.st5{letter-spacing:-64;}
+	.st6{font-family:'FenwickRg-Bold';}
+	.st7{letter-spacing:-33;}
+</style>
+<g id="XMLID_1_">
+	<g>
+		<path class="st0" d="M578.33,627.43L499.9,784.29c-86.62,0-156.86-70.24-156.86-156.86l78.43-156.86
+			C508.1,470.57,578.33,540.81,578.33,627.43z"/>
+		<path class="st1" d="M499.9,156.86L186.19,784.29c-86.62,0-156.86-70.24-156.86-156.86L343.05,0
+			C429.67,0,499.9,70.24,499.9,156.86z"/>
+	</g>
+	<g>
+		<line class="st2" x1="29.33" y1="627.43" x2="343.05" y2="0"/>
+		<line class="st2" x1="186.19" y1="784.29" x2="499.9" y2="156.86"/>
+		<line class="st2" x1="343.05" y1="627.43" x2="421.48" y2="470.57"/>
+		<line class="st2" x1="499.9" y1="784.29" x2="578.33" y2="627.43"/>
+		<path class="st2" d="M499.9,784.29c-86.62,0-156.86-70.24-156.86-156.86"/>
+		<path class="st2" d="M343.05,0C429.67,0,499.9,70.24,499.9,156.86"/>
+		<path class="st2" d="M186.19,784.29c-86.62,0-156.86-70.24-156.86-156.86"/>
+		<path class="st2" d="M421.48,470.57c86.62,0,156.86,70.24,156.86,156.86"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 585 702)"><tspan x="0" y="0" class="st3 st4 st5">Marus</tspan><tspan x="1831.65" y="0" class="st6 st4 st7">Learn</tspan></text>
+<rect x="3397.64" y="1284.91" style="fill:none;" width="4.36" height="2.09"/>
+</svg>
